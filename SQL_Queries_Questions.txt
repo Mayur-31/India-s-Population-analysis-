@@ -1,0 +1,17 @@
+Questions to Solve....
+
+1. Select Number of rows from Dataset
+
+2.What is the population trend over the years in Maharashtra and Bihar?
+
+3.What is the average growth rate of each state?
+
+4.What is the average sex ratio in different states?
+
+5.What is the average literacy rate in different states?
+
+6.Which states have the highest growth rates?
+
+7.Which states start with the letter 'A' or 'B'?
+
+8.Are there any correlations between population growth, sex ratio, and literacy rate?
